@@ -4,6 +4,10 @@
 
 I built a slot machine using HTML, CSS, and JavaScript. I used at least 5 tiers per reel and 3 reels to show their update. 
 
+## Site Preview & Preview of Project
+
+Render: https://slot-machine-2019-week05.onrender.com
+
 <img width="726" height="526" alt="Slot Machine" src="https://github.com/user-attachments/assets/9e026a32-d9d5-49f8-a06e-04d55c778026" />
 
 
@@ -27,7 +31,7 @@ It determines if you win or lose.
   I used Conditionals and Variables in my JavaScript file.
   I updated the values displayed on the page. 
 
-- `Slot-Machine.html` — Structure of the Todo List
+- `Slot-Machine.html` — Structure of the Slot Machine
 - `Slot-Machine.css` — Styling and layout
 - `Slot-Machine.js` — Todo List functionality
   
