@@ -15,7 +15,7 @@ GitHub: https://sushanathomas.github.io/Slot-Machine/
 
 The slot machine reels. 
 Five possible symbols/items per reel. 
-There are minimum and maximum betting options. 
+Minimum and maximum betting options. 
 The amount after each bet is adjusted each time you make a bet. 
 It displays the results once spun. 
 It determines if you win or lose. 
