@@ -6,7 +6,7 @@ I built a slot machine using HTML, CSS, and JavaScript. I used at least 5 tiers 
 
 ## Site Preview & Preview of Project
 
-Render: https://slot-machine-oywx.onrender.com
+GitHub: https://sushanathomas.github.io/Slot-Machine/
 
 <img width="726" height="526" alt="Slot Machine" src="https://github.com/user-attachments/assets/9e026a32-d9d5-49f8-a06e-04d55c778026" />
 
